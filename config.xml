@@ -1,6 +1,6 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.advs.insurancestage" version="2.2.2">
-  <name>INSURANCE STAG</name>
-  <description>INSURANCE STAG</description>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.advs.heart" version="2.2.2">
+  <name>HEART</name>
+  <description>HEART</description>
   <author href="http://advicesync.com" email="support@advicesync.com">eImpressive</author>
   <content src="index.html"/>
 
